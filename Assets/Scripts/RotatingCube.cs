@@ -7,5 +7,8 @@ public class RotatingCube : MonoBehaviour
     private void Update()
     {
         transform.Rotate(_rotation * Time.deltaTime);
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 }
