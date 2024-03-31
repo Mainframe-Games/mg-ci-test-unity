@@ -163,7 +163,7 @@ PlayerSettings:
   applicationIdentifier:
     Standalone: com.Mainframe-Games.Test
   buildNumber:
-    Standalone: 12
+    Standalone: 13
     VisionOS: 0
     iPhone: 0
     tvOS: 0
@@ -839,8 +839,7 @@ PlayerSettings:
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
-    Server: 1
-    Standalone: 1
+    Standalone: 0
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   managedStrippingLevel:
