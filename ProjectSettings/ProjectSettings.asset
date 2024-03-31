@@ -163,7 +163,7 @@ PlayerSettings:
   applicationIdentifier:
     Standalone: com.Mainframe-Games.Test
   buildNumber:
-    Standalone: 4
+    Standalone: 5
     VisionOS: 0
     iPhone: 0
     tvOS: 0
