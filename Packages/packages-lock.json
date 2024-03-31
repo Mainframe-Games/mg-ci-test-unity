@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.mainframe-games.build-system": {
-      "version": "file:BuildSystem",
+      "version": "file:C:/Users/Brogan/mainframe/mg-ci/UnityPackage",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       }

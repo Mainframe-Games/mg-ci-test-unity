@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.mainframe-games.build-system": "file:C:/Users/Brogan/Documents/GitHub/UnityDeployment/UnityPackage/BuildSystem",
+    "com.mainframe-games.build-system": "file:C:/Users/Brogan/mainframe/mg-ci/UnityPackage",
     "com.unity.ai.navigation": "1.1.5",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.28",

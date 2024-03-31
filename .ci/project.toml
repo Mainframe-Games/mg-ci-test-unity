@@ -20,7 +20,6 @@ product_name = "Unity Mono"
 target = "StandaloneWindows64"
 target_group = "Standalone"
 sub_target = "Player"
-build_path = "Builds/Windows"
 build_options = 0
 [[build_targets]]
 name = "Mac"
@@ -29,7 +28,6 @@ product_name = "Unity Mono"
 target = "StandaloneOSX"
 target_group = "Standalone"
 sub_target = "Player"
-build_path = "Builds/Mac"
 build_options = 0
 [[build_targets]]
 name = "Linux"
@@ -38,7 +36,6 @@ product_name = "Unity Mono"
 target = "StandaloneLinux64"
 target_group = "Standalone"
 sub_target = "Player"
-build_path = "Builds/Linux"
 build_options = 0
 [deployment]
 apple_store = false
