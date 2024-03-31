@@ -1,12 +1,13 @@
 {
   "dependencies": {
     "com.mainframe-games.build-system": {
-      "version": "file:C:/Users/Brogan/mainframe/mg-ci/UnityPackage",
+      "version": "https://github.com/Mainframe-Games/mg-ci.git?path=UnityPackage#websockets",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.0"
-      }
+      },
+      "hash": "13700aa34e13fcdf400b43bc8e550a3245f88433"
     },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
