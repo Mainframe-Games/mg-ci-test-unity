@@ -2,7 +2,7 @@ guid = "25f1670b-3be3-4f75-aacc-3b5390d355a0"
 [settings]
 project_name = "Unity Test"
 version_control = "Git"
-branch = "main"
+branch = "il2cpp"
 git_repository_url = "https://github.com/Mainframe-Games/mg-ci-test-unity.git"
 git_repository_sub_path = ""
 game_engine = "Unity"
@@ -16,7 +16,7 @@ android_version_code = false
 [[build_targets]]
 name = "Windows"
 extension = ".exe"
-product_name = "Unity Mono"
+product_name = "UnityTest"
 target = "StandaloneWindows64"
 target_group = "Standalone"
 sub_target = "Player"
@@ -24,7 +24,7 @@ build_options = 0
 [[build_targets]]
 name = "Mac"
 extension = ".app"
-product_name = "Unity Mono"
+product_name = "UnityTest"
 target = "StandaloneOSX"
 target_group = "Standalone"
 sub_target = "Player"
@@ -32,7 +32,7 @@ build_options = 0
 [[build_targets]]
 name = "Linux"
 extension = ".x86_64"
-product_name = "Unity Mono"
+product_name = "UnityTest"
 target = "StandaloneLinux64"
 target_group = "Standalone"
 sub_target = "Player"
