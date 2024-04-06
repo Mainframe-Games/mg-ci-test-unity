@@ -1,14 +1,5 @@
 {
   "dependencies": {
-    "com.mainframe-games.build-system": {
-      "version": "https://github.com/Mainframe-Games/mg-ci.git?path=UnityPackage#websockets",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.0"
-      },
-      "hash": "3e345939f55b5f84a90a7dcc248d9d26232ff098"
-    },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 0,
@@ -156,6 +147,13 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "games.mainframe.ci": {
+      "version": "https://github.com/Mainframe-Games/mg-ci.git?path=UnityPackage#websockets",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "aefc30c4587c2166ab67303acc09e061ef5fcba6"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
