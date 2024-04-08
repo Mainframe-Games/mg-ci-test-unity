@@ -142,11 +142,11 @@
       }
     },
     "games.mainframe.ci": {
-      "version": "https://github.com/Mainframe-Games/mg-ci.git?path=UnityPackage#websockets",
+      "version": "https://github.com/Mainframe-Games/mg-ci.git?path=UnityPackage",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "aefc30c4587c2166ab67303acc09e061ef5fcba6"
+      "hash": "3cbe5a0e7dcf51cda6c9156576f220ec6fa251bd"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
